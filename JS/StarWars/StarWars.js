@@ -177,8 +177,162 @@ function pokazipobunjenike()
     carstvo.style.display= "none";
 }
 
+function prikazirasu1()
+{
+    let rasa1 = document.getElementById("rasa1");
+    let rasa2 = document.getElementById("rasa2");
+    let rasa3 = document.getElementById("rasa3");
+    let rasa4 = document.getElementById("rasa4");
+    let rasa5 = document.getElementById("rasa5");
+    let rasa6 = document.getElementById("rasa6");
+    let rasa7 = document.getElementById("rasa7");
+    let rasa8 = document.getElementById("rasa8");
+    rasa1.style.display = "flex";
+    rasa2.style.display = "none";
+    rasa3.style.display = "none";
+    rasa4.style.display = "none";
+    rasa5.style.display = "none";
+    rasa6.style.display = "none";
+    rasa7.style.display = "none";
+    rasa8.style.display = "none";
+}
+
 function prikazirasu2()
 {
-    let rasa = document.getElementById("rasa2");
-    rasa.style.display = "flex";
+    let rasa1 = document.getElementById("rasa1");
+    let rasa2 = document.getElementById("rasa2");
+    let rasa3 = document.getElementById("rasa3");
+    let rasa4 = document.getElementById("rasa4");
+    let rasa5 = document.getElementById("rasa5");
+    let rasa6 = document.getElementById("rasa6");
+    let rasa7 = document.getElementById("rasa7");
+    let rasa8 = document.getElementById("rasa8");
+    rasa1.style.display = "none";
+    rasa2.style.display = "flex";
+    rasa3.style.display = "none";
+    rasa4.style.display = "none";
+    rasa5.style.display = "none";
+    rasa6.style.display = "none";
+    rasa7.style.display = "none";
+    rasa8.style.display = "none";
+}
+
+function prikazirasu3()
+{
+    let rasa1 = document.getElementById("rasa1");
+    let rasa2 = document.getElementById("rasa2");
+    let rasa3 = document.getElementById("rasa3");
+    let rasa4 = document.getElementById("rasa4");
+    let rasa5 = document.getElementById("rasa5");
+    let rasa6 = document.getElementById("rasa6");
+    let rasa7 = document.getElementById("rasa7");
+    let rasa8 = document.getElementById("rasa8");
+    rasa1.style.display = "none";
+    rasa2.style.display = "none";
+    rasa3.style.display = "flex";
+    rasa4.style.display = "none";
+    rasa5.style.display = "none";
+    rasa6.style.display = "none";
+    rasa7.style.display = "none";
+    rasa8.style.display = "none";
+}
+
+function prikazirasu4()
+{
+    let rasa1 = document.getElementById("rasa1");
+    let rasa2 = document.getElementById("rasa2");
+    let rasa3 = document.getElementById("rasa3");
+    let rasa4 = document.getElementById("rasa4");
+    let rasa5 = document.getElementById("rasa5");
+    let rasa6 = document.getElementById("rasa6");
+    let rasa7 = document.getElementById("rasa7");
+    let rasa8 = document.getElementById("rasa8");
+    rasa1.style.display = "none";
+    rasa2.style.display = "none";
+    rasa3.style.display = "none";
+    rasa4.style.display = "flex";
+    rasa5.style.display = "none";
+    rasa6.style.display = "none";
+    rasa7.style.display = "none";
+    rasa8.style.display = "none";
+}
+
+function prikazirasu5()
+{
+    let rasa1 = document.getElementById("rasa1");
+    let rasa2 = document.getElementById("rasa2");
+    let rasa3 = document.getElementById("rasa3");
+    let rasa4 = document.getElementById("rasa4");
+    let rasa5 = document.getElementById("rasa5");
+    let rasa6 = document.getElementById("rasa6");
+    let rasa7 = document.getElementById("rasa7");
+    let rasa8 = document.getElementById("rasa8");
+    rasa1.style.display = "none";
+    rasa2.style.display = "none";
+    rasa3.style.display = "none";
+    rasa4.style.display = "none";
+    rasa5.style.display = "flex";
+    rasa6.style.display = "none";
+    rasa7.style.display = "none";
+    rasa8.style.display = "none";
+}
+
+function prikazirasu6()
+{
+    let rasa1 = document.getElementById("rasa1");
+    let rasa2 = document.getElementById("rasa2");
+    let rasa3 = document.getElementById("rasa3");
+    let rasa4 = document.getElementById("rasa4");
+    let rasa5 = document.getElementById("rasa5");
+    let rasa6 = document.getElementById("rasa6");
+    let rasa7 = document.getElementById("rasa7");
+    let rasa8 = document.getElementById("rasa8");
+    rasa1.style.display = "none";
+    rasa2.style.display = "none";
+    rasa3.style.display = "none";
+    rasa4.style.display = "none";
+    rasa5.style.display = "none";
+    rasa6.style.display = "flex";
+    rasa7.style.display = "none";
+    rasa8.style.display = "none";
+}
+
+function prikazirasu7()
+{
+    let rasa1 = document.getElementById("rasa1");
+    let rasa2 = document.getElementById("rasa2");
+    let rasa3 = document.getElementById("rasa3");
+    let rasa4 = document.getElementById("rasa4");
+    let rasa5 = document.getElementById("rasa5");
+    let rasa6 = document.getElementById("rasa6");
+    let rasa7 = document.getElementById("rasa7");
+    let rasa8 = document.getElementById("rasa8");
+    rasa1.style.display = "none";
+    rasa2.style.display = "none";
+    rasa3.style.display = "none";
+    rasa4.style.display = "none";
+    rasa5.style.display = "none";
+    rasa6.style.display = "none";
+    rasa7.style.display = "flex";
+    rasa8.style.display = "none";
+}
+
+function prikazirasu8()
+{
+    let rasa1 = document.getElementById("rasa1");
+    let rasa2 = document.getElementById("rasa2");
+    let rasa3 = document.getElementById("rasa3");
+    let rasa4 = document.getElementById("rasa4");
+    let rasa5 = document.getElementById("rasa5");
+    let rasa6 = document.getElementById("rasa6");
+    let rasa7 = document.getElementById("rasa7");
+    let rasa8 = document.getElementById("rasa8");
+    rasa1.style.display = "none";
+    rasa2.style.display = "none";
+    rasa3.style.display = "none";
+    rasa4.style.display = "none";
+    rasa5.style.display = "none";
+    rasa6.style.display = "none";
+    rasa7.style.display = "none";
+    rasa8.style.display = "flex";
 }
